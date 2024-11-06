@@ -1,0 +1,63 @@
+/* Classes */
+
+.container {
+    display: flex;
+    align-items: flex-start; /* aligns content to the top */
+  }  
+
+.sidebar {
+    width: 30%; /* adjust based on your preference */
+    max-width: 400px;
+    background-color: #f0f0f0; /* optional for visibility */
+    padding: 24px;
+    padding-top: 16px;
+    border-radius: 12px;
+  }
+
+.content {
+    width: 70%; /* takes up the rest of the space */
+    max-width: 800px;
+    background-color: #fff;
+    padding-left: 32px;
+  }
+
+.experience {
+    padding-bottom: 32px;
+}
+
+.experience h2 {
+    color: darkblue;
+}
+  
+main {
+    width: 600;
+}
+
+header {
+    padding: 24px;
+}
+
+h1 {
+    text-align: left;
+    size: 64px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h2 {
+    text-align: left;
+    size: 48px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h3 {
+    text-align: left;
+    size: 32px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    text-align: left;
+    size: 28px;
+    font-family: Arial, Helvetica, sans-serif;
+    font: 300;
+}

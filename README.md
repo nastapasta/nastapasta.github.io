@@ -1,2 +1,0 @@
-# training
-portfolio training file

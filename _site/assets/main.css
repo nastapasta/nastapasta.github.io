@@ -12,7 +12,7 @@ dl, dd, ol, ul, figure {
  * Basic styling
  */
 body {
-  font: 400 16px/1.5 Inter, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font: 400 16px/1.5 Inter, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol" !important;
   color: #111;
   background-color: #f9f9f9;
   -webkit-text-size-adjust: 100%;
@@ -217,10 +217,10 @@ table td {
  * Site header
  */
 .site-header {
-  border-bottom: 1px solid #e8e8e8;
+  border-bottom: 1px solid #e8e8e8 !important;
   min-height: 55.95px;
   position: relative;
-  margin-top: 8px;
+  margin-top: 8px !important; 
 }
 
 .site-title {

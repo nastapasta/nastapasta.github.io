@@ -12,6 +12,8 @@ In my work, I aim to fulfil my values – kindness and strength – in a way ben
 
 I am from Belarus and am currently based here, in Minsk. English is neither my first, nor second language, so I can make mistakes – apologies for that.
 
+You can check and download [my CV](https://drive.google.com/file/d/1837dY2GtDSrBJ3toO2yfehnZKUz5hSI1/view).
+
 ### Colophon
 
 This website is made with Jekyll, using the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)

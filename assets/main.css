@@ -14,7 +14,7 @@ dl, dd, ol, ul, figure {
 body {
   font: 400 16px/1.5 Inter, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   color: #111;
-  background-color: #fdfdfd;
+  background-color: #f9f9f9;
   -webkit-text-size-adjust: 100%;
   -webkit-font-feature-settings: "kern" 1;
   -moz-font-feature-settings: "kern" 1;
@@ -232,7 +232,7 @@ table td {
   float: left;
 }
 .site-title, .site-title:visited {
-  color: rgb(66.25, 66.25, 66.25);
+  color: #111111;
 }
 
 .site-nav {
@@ -246,7 +246,7 @@ table td {
   display: none;
 }
 .site-nav .page-link {
-  color: #111;
+  color: #111111;
   line-height: 1.5;
 }
 .site-nav .page-link:not(:last-child) {
@@ -406,7 +406,7 @@ table td {
 }
 
 .post-title {
-  font-size: 42px;
+  font-size: 36px;
   letter-spacing: -1px;
   line-height: 1;
 }
@@ -420,7 +420,7 @@ table td {
   margin-bottom: 30px;
 }
 .post-content h2 {
-  font-size: 32px;
+  font-size: 30px;
 }
 @media screen and (max-width: 800px) {
   .post-content h2 {
@@ -428,7 +428,7 @@ table td {
   }
 }
 .post-content h3 {
-  font-size: 26px;
+  font-size: 24px;
 }
 @media screen and (max-width: 800px) {
   .post-content h3 {

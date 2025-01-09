@@ -16,7 +16,9 @@ You can check and download [my CV](https://drive.google.com/file/d/1837dY2GtDSrB
 
 ### Colophon
 
-This website is made with Jekyll, using the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+This website is made with Jekyll, first using the base theme Minima, which I have changed a bit and am planning to customize further.
+
+You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
 You can find the source code for Minima at GitHub:
 [jekyll][jekyll-organization] /

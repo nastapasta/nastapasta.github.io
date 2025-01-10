@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-01-10T19:03:17+03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Nasta Tulayeva</title><subtitle>Product and UX designer, former architect and community builder, and curious dummy in design engineering.
 </subtitle><author><name>{&quot;email&quot;=&gt;&quot;nasta.tulayeva@gmail.com&quot;}</name><email>nasta.tulayeva@gmail.com</email></author><entry><title type="html">Hello World</title><link href="http://localhost:4000/2025/01/10/hello-world.html" rel="alternate" type="text/html" title="Hello World" /><published>2025-01-10T00:00:00+03:00</published><updated>2025-01-10T00:00:00+03:00</updated><id>http://localhost:4000/2025/01/10/hello-world</id><content type="html" xml:base="http://localhost:4000/2025/01/10/hello-world.html"><![CDATA[<p>This is the first post on this site. Hoorayyy!</p>
 
+<p>This is the first post on this site. Hoorayyy!</p>
+
 <p>The next steps are:</p>
 
 <ol>
@@ -11,4 +13,4 @@
     </ol>
   </li>
   <li>Customize theme.</li>
-</ol>]]></content><author><name>{&quot;email&quot;=&gt;&quot;nasta.tulayeva@gmail.com&quot;}</name><email>nasta.tulayeva@gmail.com</email></author><summary type="html"><![CDATA[This is the first post on this site. Hoorayyy!]]></summary></entry></feed>
+</ol>]]></content><author><name>{&quot;email&quot;=&gt;&quot;nasta.tulayeva@gmail.com&quot;}</name><email>nasta.tulayeva@gmail.com</email></author><category term="misc" /><summary type="html"><![CDATA[]]></summary></entry></feed>

@@ -620,7 +620,7 @@ table td {
 }
 
 .post-list-heading {
-  font-size: 1.75rem;
+  font-size: 1.5rem;
 }
 
 .post-list {
@@ -745,6 +745,14 @@ table td {
 .h2 {
   font-weight: 400;
   font-size: 23.625px;
+}
+
+.links-list {
+  margin-left: 0;
+  list-style: none;
+}
+.links-list > li {
+  margin-bottom: 15px;
 }
 
 /*# sourceMappingURL=style.css.map */

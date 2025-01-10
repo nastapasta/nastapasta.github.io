@@ -11,6 +11,8 @@ list_title: "Latest Blog Posts"
 
   {{ content }}
 
+  <p class="body">I'm Nasta. Currently - product and UX designer and curious dummy in design engineering, former architect and community builder.
+    </p>
 
   {% if site.paginate %}
     {% assign posts = paginator.posts %}
@@ -58,5 +60,20 @@ list_title: "Latest Blog Posts"
     {%- endif %}
 
   {%- endif -%}
+
+<h2 class="post-list-heading">
+    {{ page.list_title | default: "Find me" }}
+</h2>
+<ul class="links-list">
+  <li>
+    <a href="https://t.me/abusabub" target="_blank">Telegram channel (in Russian)</a>
+  </li>
+  <li>
+    <a href="https://github.com/nastapasta" target="_blank">Github</a>
+  </li>
+  <li>
+    <a href="https://www.linkedin.com/in/nastia-tulayeva/" target="_blank">Linkedin</a>
+  </li>
+</ul>
 
 </div>

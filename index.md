@@ -7,5 +7,3 @@
 #
 layout: home
 ---
-
-I'm Nasta. Currently - product and UX designer and curious dummy in design engineering, former architect .

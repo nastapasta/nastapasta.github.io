@@ -3,7 +3,6 @@ layout: post
 title: "Hello World"
 categories: misc
 ---
----
 
 This is the first post on this site. Hoorayyy!
 

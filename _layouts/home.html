@@ -20,6 +20,8 @@ list_title: "Latest Blog Posts"
     {% assign posts = site.posts %}
   {% endif %}
 
+  <!--Blog Posts-->
+
   {%- if posts.size > 0 -%}
   <h2 class="post-list-heading">
     {{ page.list_title | default: "Writing" }}
@@ -61,6 +63,7 @@ list_title: "Latest Blog Posts"
 
   {%- endif -%}
 
+<!--Find Me Links-->
 <h2 class="post-list-heading">
     {{ page.list_title | default: "Find me" }}
 </h2>

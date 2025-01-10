@@ -51,12 +51,7 @@ minima:
   #date_format: "%b-%d-%Y"
 
   # Generate social links in footer.
-  social_links:
-   - { platform: github,         user_url: "https://github.com/nastapasta" }
-   - { platform: telegram,       user_url: "https://t.me/abusabub" }
-   - { platform: linkedin,       user_url: "https://www.linkedin.com/in/nastia-tulayeva/" }
-
-
+  # social_links:
 
   #  - { platform: devto,          user_url: "https://dev.to/jekyll" }
   #  - { platform: dribbble,       user_url: "https://dribbble.com/jekyll" }

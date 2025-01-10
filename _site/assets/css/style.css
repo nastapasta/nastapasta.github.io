@@ -668,7 +668,7 @@ table td {
   margin-top: 30px;
 }
 .post-content h2 {
-  font-size: 1.75rem;
+  font-size: 1.5rem;
 }
 @media screen and (min-width: 800px) {
   .post-content h2 {
@@ -741,6 +741,10 @@ table td {
   .one-half {
     width: calc(50% - 30px / 2);
   }
+}
+.h2 {
+  font-weight: 400;
+  font-size: 23.625px;
 }
 
 /*# sourceMappingURL=style.css.map */

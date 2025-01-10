@@ -458,7 +458,7 @@ table td {
   }
 }
 .site-title, .site-title:visited {
-  color: rgb(66.25, 66.25, 66.25);
+  color: #111111;
 }
 
 .site-nav {
@@ -753,6 +753,34 @@ table td {
 }
 .links-list > li {
   margin-bottom: 15px;
+}
+
+.card {
+  /* Add shadows to create the "card" effect */
+  box-shadow: 0 2px 4px 0 #e8e8e8;
+  max-width: 40%;
+  transition: 0.2s;
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 8px;
+  border-color: #e8e8e8;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+/* On mouse-over, add a deeper shadow */
+.card:hover {
+  box-shadow: 0 4px 8px 0 #e8e8e8;
+}
+
+/* Add some padding inside the card container */
+.container {
+  padding: 2px 16px;
+}
+
+.flex-container {
+  display: flex;
+  flex-wrap: wrap;
 }
 
 /*# sourceMappingURL=style.css.map */
